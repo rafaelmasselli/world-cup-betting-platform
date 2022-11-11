@@ -8,13 +8,13 @@
 
 ## 🗒️ Requisitos
 
-### - [Git](https://git-scm.com/)
+#### - [Git](https://git-scm.com/)
 
-### - [Node](https://nodejs.org/en/)
+#### - [Node](https://nodejs.org/en/)
 
-### - [Expo](https://docs.expo.dev/)
+#### - [Expo](https://docs.expo.dev/)
 
-### - [Emulador (Recomendo o android studio)](https://developer.android.com/studio)
+#### - [Emulador (Recomendo o android studio)](https://developer.android.com/studio)
 
 ## 👾 Iniciando o projeto
 
