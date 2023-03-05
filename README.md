@@ -4,7 +4,7 @@
 
 ## Descrição
 
-### Um aplicativo de apostas para a Copa do Mundo 2022 foi desenvolvido utilizando as tecnologias React Native e ReactJS. A aplicação permite a participação em bolões do evento esportivo mundial, oferecendo aos usuários uma experiência interativa e envolvente. Com recursos de autenticação de usuário, gerenciamento de apostas, ranking de pontuações, notificações em tempo real e integração com redes sociais, os usuários podem competir com amigos e seguidores de todo o mundo. A tecnologia React Native permite que o aplicativo seja executado em dispositivos iOS e Android, oferecendo uma plataforma multiplataforma que oferece recursos escaláveis, intuitivos e de alto desempenho.
+#### Um aplicativo de apostas para a Copa do Mundo 2022 foi desenvolvido utilizando as tecnologias React Native e ReactJS. A aplicação permite a participação em bolões do evento esportivo mundial, oferecendo aos usuários uma experiência interativa e envolvente. Com recursos de autenticação de usuário, gerenciamento de apostas, ranking de pontuações, notificações em tempo real e integração com redes sociais, os usuários podem competir com amigos e seguidores de todo o mundo. A tecnologia React Native permite que o aplicativo seja executado em dispositivos iOS e Android, oferecendo uma plataforma multiplataforma que oferece recursos escaláveis, intuitivos e de alto desempenho.
   
 ## 🗒️ Requisitos
 
