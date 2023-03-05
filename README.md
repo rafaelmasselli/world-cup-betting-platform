@@ -4,7 +4,7 @@
 
 ## Descrição
 
-### Aplicação para participar de bolões da Copa do Mundo 2022
+### Uma aplicação móvel desenvolvida com React Native e web com ReactJS para participação em bolões da Copa do Mundo 2022
 
 ## 🗒️ Requisitos
 
